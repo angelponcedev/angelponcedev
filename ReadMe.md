@@ -1,4 +1,4 @@
-![Artboard](/Trimmed_Banner.png "Hello there :p")
+![Artboard](/Trimmed_Banner_2.png "Hello there :p")
 
 # Nice to meet you! :star:
 Currently I'm a CS undergrad stuying at Universidad Autonoma de Aguascalientes :blue_book:, and i'm pretty much invested in developing my programming skills, hence, i spend quite a bit of time on making computers render good looking stuff :blush:.
