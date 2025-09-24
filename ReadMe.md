@@ -44,18 +44,16 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelponcedev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelponcedev&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelponcedev&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=angelponcedev&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelponcedev&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 ---
 
