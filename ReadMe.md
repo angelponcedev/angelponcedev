@@ -2,21 +2,24 @@
 
 <div align="center">
   
-# 👋 ¡Nice to meet you!
-**`Developer in Progress`** • **`Fortune Favors The Bold`** • **`CS Student`**
-
-</div>
+# 👋 ¡Nice to meet you!  
+✨ **`Developer in Progress`** · **`Fortune Favors The Bold`** · **`CS Student`** ✨  
 
 ---
 
+</div>
+
+
 ## 🎓 About Me
 
-Currently pursuing my **Computer Science degree** at **Universidad Autónoma de Aguascalientes** 🇲🇽. I'm passionate about crafting beautiful, functional code and making computers render amazing experiences! Always learning, always building, always growing 🚀.
+🎓 Currently studying **Computer Science** at **Universidad Autónoma de Aguascalientes** 🇲🇽.  
+💻 Passionate about creating **beautiful, functional code** and pushing computers to render amazing experiences.  
+🚀 Always learning, always building, always growing.  
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/tuusername?style=social)](https://github.com/tuusername)
-[![GitHub stars](https://img.shields.io/github/stars/tuusername?style=social)](https://github.com/tuusername)
+
+[![GitHub followers](https://img.shields.io/github/followers/angelponcedev?color=0e75b6&style=flat-square)](https://github.com/angelponcedev?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/angelponcedev?color=yellow&style=flat-square)](https://github.com/angelponcedev?tab=repositories)
 
 </div>
 
@@ -26,14 +29,14 @@ Currently pursuing my **Computer Science degree** at **Universidad Autónoma de 
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css" />
+### 💡 Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css&theme=light" />
 
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+### ⚡ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=light" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=light" />
 
 </div>
 
@@ -42,21 +45,21 @@ Currently pursuing my **Computer Science degree** at **Universidad Autónoma de 
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tuusername&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tuusername&theme=radical&hide_border=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=angelponcedev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=angelponcedev&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusername&layout=compact&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelponcedev&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 Current Focus
 
 ```javascript
 const currentFocus = {
@@ -72,21 +75,21 @@ const currentFocus = {
 ## 🌟 Featured Projects
 
 <div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusername&repo=proyecto1&theme=radical&hide_border=true)](https://github.com/angelponcedev/Club-de-Programacion-Creativa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuusername&repo=proyecto2&theme=radical&hide_border=true)](https://github.com/angelponcedev/Mici-Inventory-Balance-and-Demand-Forecasting)
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelponcedev&repo=Club-de-Programacion-Creativa&theme=tokyonight&hide_border=true)](https://github.com/angelponcedev/Club-de-Programacion-Creativa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelponcedev&repo=Mici-Inventory-Balance-and-Demand-Forecasting&theme=tokyonight&hide_border=true)](https://github.com/angelponcedev/Mici-Inventory-Balance-and-Demand-Forecasting)
 
 </div>
 
 ---
 
-## 🎨 Fun Facts About Me
+## 🎨 Fun Facts
 
-- 🎮 I love making computers render beautiful things
-- 📚 CS theory and practical coding both fascinate me
-- 🌱 Always exploring new technologies and frameworks
-- 💡 I believe in learning by building
-- 🎯 "Fortune Favors The Bold" is my coding motto
+- 🎮 I love making computers render **beautiful things**  
+- 📚 Equally fascinated by **theory** and **practical coding**  
+- 🌱 Always exploring **new technologies and frameworks**  
+- 💡 My belief: **learning happens by building**  
+- 🎯 Motto: *"Fortune Favors The Bold"*  
 
 ---
 
@@ -94,21 +97,17 @@ const currentFocus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tumail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angelponcedev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelponcecontacto@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 *"Code is poetry written in logic"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuusername&color=brightgreen&style=flat-square)
-[![wakatime](https://wakatime.com/badge/user/tu-wakatime-id.svg)](https://wakatime.com/@tu-wakatime-id)
+### 💭 *"Code is poetry written in logic"*  
 
-**Thanks for visiting! ⭐ Star some repos if you find them interesting!**
+🔹 Thanks for visiting — ⭐ star some repos if you find them interesting!  
 
 </div>
