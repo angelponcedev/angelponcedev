@@ -33,10 +33,10 @@
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,cpp,html,css&theme=light" />
 
 ### ⚡ Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,fastapi&theme=light" />
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=figma,linux,postgres,sqlite,docker&theme=light" />
 
 </div>
 
