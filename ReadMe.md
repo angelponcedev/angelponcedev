@@ -36,21 +36,6 @@ Three-time national hackathon podium · Aguascalientes, México 🇲🇽
 
 ---
 
-## Stats
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=angelponcedev&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelponcedev&layout=compact&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## Currently
 
 ```python
@@ -67,12 +52,9 @@ status = {
 
 ---
 
-## Featured
-
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelponcedev&repo=Club-de-Programacion-Creativa&theme=tokyonight&hide_border=true)](https://github.com/angelponcedev/Club-de-Programacion-Creativa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=angelponcedev&repo=Mici-Inventory-Balance-and-Demand-Forecasting&theme=tokyonight&hide_border=true)](https://github.com/angelponcedev/Mici-Inventory-Balance-and-Demand-Forecasting)
+![Streak](https://streak-stats.demolab.com/?user=angelponcedev&theme=tokyonight&hide_border=true)
 
 </div>
 
