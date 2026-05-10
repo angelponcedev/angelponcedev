@@ -1,6 +1,6 @@
 <div align="center">
 
-# Angel Ponce
+![Banner](/Trimmed_Banner_2.png)
 
 **`Intelligent Computing Engineering · AI Specialization`**
 
